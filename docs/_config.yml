@@ -1,7 +1,8 @@
 title: Máj - svatba Áni a Honzy
 description: Svatba Áni a Honzy
 sitename: 
-baseurl: ''
+#baseurl: ''
+baseurl: 'https://janxmares.github.io/wedding'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
