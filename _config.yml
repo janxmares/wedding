@@ -1,0 +1,15 @@
+title: Máj - svatba Áni a Honzy
+description: Svatba Áni a Honzy
+sitename: 
+baseurl: ''
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - features
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
