@@ -1,15 +1,15 @@
 ---
 id: kontakt
 name: Kontakt
-heading: Máte dotaz? Napište nám...
+heading: 
 subheading:
 image: "assets/P1260939.jpg"
 ---
+<br>
+<br>
+<br>
 
-Máte-li na srdci sdělení či otázku přímo pro nás, napište nám na: 
+Máte-li slinu na prstech či otázku přímo pro nás, napište! (**[Áňa](mailto:anickahulkova@gmail.com?subject=[1.%20MÁJ])**, **[Honza](mailto:janxmares@gmail.com?subject=[1.%20MÁJ])**)
 
-anickahulkova@gmail.com
 
-janxmares@gmail.com
-
-Pokud se jedná o organizační patálie v den svatby, kontaktujte ....
+Pokud se jedná o organizační patálie v den svatby nebo záludnosti, které nemůžete probrat s námi, kontaktujte **[Sáru](mailto:prochazkova.sara@gmail.com?subject=[1.%20MÁJ])** nebo **[Aleše](mailto:abelohr@gmail.com?subject=[1.%20MÁJ])**.
