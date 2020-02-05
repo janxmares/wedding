@@ -19,27 +19,27 @@ Svatba bude veliká, poplacení bydlení je v režii svatebčanů.
 <table style="margin-left:auto; margin-right:auto; width: 100%;">
     <tr>
         <td style="font-weight: bold; padding-bottom:5px; vertical-align:top;"> <a href="http://www.ekocentrumrychleby.cz/ubytovani/ekocentrum-rychleby/" target="_blank">Ekocentrum Rychleby</a></td>
-        <td style="padding-left: 5%; padding-bottom: 5px"> komfortní bydlení v pokojích, 10 minut autem od Tančírny </td>
+        <td style="padding-left: 5%; padding-bottom: 5px; vertical-align:top;"> komfortní bydlení v pokojích, 10 minut autem od Tančírny </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-bottom:5px; vertical-align:top;"> <a href="http://www.ekocentrumrychleby.cz/ubytovani/kemp-cervenka/" target="_blank">Chatky Červenka</a> </td>
-        <td style="padding-left: 5%;padding-bottom: 5px;"> moderní chatky (vlastní kuchyně, soc.zařízení), 10 minut autem od Tančírny </td>
+        <td style="padding-left: 5%;padding-bottom: 5px; vertical-align:top;"> moderní chatky (vlastní kuchyně, soc.zařízení), 10 minut autem od Tančírny </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-bottom:5px; vertical-align:top;"> <a href="http://www.ekocentrumrychleby.cz/ubytovani/kemp-cervenka/" target="_blank"> Tabita </a> </td>
-        <td style="padding-left: 5%;padding-bottom: 5px;"> pokoje s postelemi či na karimatkách, přímo naproti Tančírně (pozn. hlučné) </td>
+        <td style="padding-left: 5%;padding-bottom: 5px; vertical-align:top;"> pokoje s postelemi či na karimatkách, přímo naproti Tančírně (pozn. hlučné) </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-bottom:5px; vertical-align:top;"> <a href="https://s.raciudoli.cz/ubytovani-v-rychlebskych-horach/pension-isolde/" target="_blank"> Penzion Isolda </a></td>
-        <td style="padding-left: 5%;padding-bottom: 5px;"> bydlení na pokojích, 5 minut pěšky od Tančírny </td>
+        <td style="padding-left: 5%;padding-bottom: 5px; vertical-align:top;"> bydlení na pokojích, 5 minut pěšky od Tančírny </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-bottom:5px; vertical-align:top;"> <a href="https://s.raciudoli.cz/ubytovani-v-rychlebskych-horach/ubytovani-v-chatkach/" target="_blank"> Chatky/Sruby Isolda </a></td>
-        <td style="padding-left: 5%;padding-bottom: 5px;"> táborové chatky a sruby 5 minut pěšky od Tančírny (lze vzít vlastní přímotop) </td>
+        <td style="padding-left: 5%;padding-bottom: 5px; vertical-align:top;"> táborové chatky a sruby 5 minut pěšky od Tančírny (lze vzít vlastní přímotop) </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-bottom:5px; vertical-align:top;"> <a href="(https://s.raciudoli.cz/ubytovani-v-rychlebskych-horach/cenik-ubytovani-2019/" target="_blank"> Stany u Isoldy </a></td>
-        <td style="padding-left: 5%;padding-bottom: 5px;"> punk, zmrzlina </td>
+        <td style="padding-left: 5%;padding-bottom: 5px; vertical-align:top;"> punk, zmrzlina </td>
     </tr>
 </table>
 
