@@ -1,14 +1,10 @@
 ---
 id: kontakt
 name: Kontakt
-heading: 
+heading: Kontakt
 subheading:
-image: "assets/P1260939.jpg"
+image: "assets/P1260934.jpg"
 ---
-<br>
-<br>
-<br>
-
 Máte-li slinu na prstech či otázku přímo pro nás, napište! (**[Áňa](mailto:anickahulkova@gmail.com?subject=[1.%20MÁJ])**, **[Honza](mailto:janxmares@gmail.com?subject=[1.%20MÁJ])**)
 
 

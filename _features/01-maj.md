@@ -6,54 +6,58 @@ heading:
 # image: "assets/P1260934.jpg"
 ---
 
-<p style="text-align: center; font-weight: bold"> Čtvrtek 30. 4.</p>
-
-<table style="margin-left:25%; margin-right:15%; width: 70%;">
+<table style="margin-left: auto; margin-right:auto; width: 75%;">
+    <tr>
+        <td style="text-align: center; font-weight: bold;" colspan="2"> Čtvrtek 30. 4. </td>
+    </tr>
+    <tr>
+        <td style="padding-bottom: 7px;"></td>
+    </tr>
     <tr>
         <td> 19.30 </td>
-        <td style="padding-left: 20px;"> workshop swingu pro svatebčany v Tančírně </td>
+        <td style="padding-left: 7%;"> workshop swingu pro svatebčany v Tančírně </td>
     </tr>
     <tr>
         <td> 21.00 </td>
-        <td style="padding-left: 20px;"> čarodejnice, hry, sdílení, přípravy, ... </td>
+        <td style="padding-left: 7%;"> čarodejnice, hry, sdílení, přípravy, ... </td>
     </tr>
-</table>
-
-<br>
-
-<p style="text-align: center; font-weight: bold">Pátek 1. 5.</p>
-
-<table style="margin-left:25%; margin-right:auto; width: 70%;">
+    <tr>
+        <td> <br> </td>
+    </tr>
+    <tr>
+        <td style="text-align: center; font-weight: bold;" colspan="2"> Pátek 1. 5. </td>
+    </tr>
+    <tr>
+        <td style="padding-bottom: 7px;"> </td>
+    </tr>
     <tr>
         <td> 14.30 </td>
-        <td style="padding-left: 20px;"> obřad před kaplí sv. Antonína Paduánského </td>
+        <td style="padding-left: 7%;"> obřad před kaplí sv. Antonína Paduánského </td>
     </tr>
     <tr>
         <td> 15.30 </td>
-        <td style="padding-left: 20px;"> průvod do Tančírny </td>
+        <td style="padding-left: 7%;"> průvod do Tančírny </td>
     </tr>
     <tr>
         <td> 16.00 </td>
-        <td style="padding-left: 20px;"> přípitek, dort </td>
+        <td style="padding-left: 7%;"> přípitek, dort </td>
     </tr>
     <tr>
         <td> 16.30 </td>
-        <td style="padding-left: 20px;"> oslava, jak kdo vydrží </td>
+        <td style="padding-left: 7%;"> oslava, jak kdo vydrží </td>
     </tr>
-</table>
-
-<!--14.30   obřad před kaplí sv. Antonína Paduánského
-#15.15   průvod do Tančírny
-#16.00   přípitek, dort
-#16.30   oslava, jak kdo vydrží
--->
-
-<br>
-<p style="text-align: center; font-weight: bold">So-Ne 2. 5. - 3. 5.</p>
-
-<table style="margin-left:25%; margin-right:auto; width: 70%;">
     <tr>
-        <td> regenerace, výlety a cyklovýlety každý podle svého </td>
+        <td> <br> </td>
+    </tr>
+    <tr>
+        <td style="text-align: center; font-weight: bold;" colspan="2"> Sobota a neděle </td>
+    </tr>
+    <tr>
+    <td style="padding-bottom: 7px;"> </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td style="padding-left: 7%;"> regenerace, výlety a cyklovýlety každý podle svého </td>
     </tr>
 </table>
 <hr>
