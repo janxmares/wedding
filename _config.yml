@@ -1,7 +1,7 @@
 title: Máj - svatba Áni a Honzy
 description: Svatba Áni a Honzy
-sitename: Máj - svatba Áni a Honzy
-baseurl: /
+sitename:
+baseurl: 
 sass:
   sass_dir: /assets/_sass
   style: :compressed
