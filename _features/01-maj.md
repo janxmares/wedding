@@ -14,12 +14,12 @@ heading:
         <td style="padding-bottom: 7px;"></td>
     </tr>
     <tr>
-        <td> 19.30 </td>
-        <td style="padding-left: 7%;"> workshop swingu pro svatebčany v Tančírně </td>
+        <td style="vertical-align:top;"> 19.30 </td>
+        <td style="padding-left: 8.5%;"> workshop swingu pro svatebčany v Tančírně </td>
     </tr>
     <tr>
-        <td> 21.00 </td>
-        <td style="padding-left: 7%;"> čarodejnice, hry, sdílení, přípravy, ... </td>
+        <td style="vertical-align:top;"> 21.00 </td>
+        <td style="padding-left: 8.5%;"> čarodejnice, hry, sdílení, přípravy, ... </td>
     </tr>
     <tr>
         <td> <br> </td>
@@ -31,20 +31,20 @@ heading:
         <td style="padding-bottom: 7px;"> </td>
     </tr>
     <tr>
-        <td> 14.30 </td>
-        <td style="padding-left: 7%;"> obřad před kaplí sv. Antonína Paduánského </td>
+        <td style="vertical-align:top;"> 14.30 </td>
+        <td style="padding-left: 8.5%;"> obřad před kaplí sv. Antonína Paduánského </td>
     </tr>
     <tr>
-        <td> 15.30 </td>
-        <td style="padding-left: 7%;"> průvod do Tančírny </td>
+        <td style="vertical-align:top;"> 15.30 </td>
+        <td style="padding-left: 8.5%;"> průvod do Tančírny </td>
     </tr>
     <tr>
-        <td> 16.00 </td>
-        <td style="padding-left: 7%;"> přípitek, dort </td>
+        <td style="vertical-align:top;"> 16.00 </td>
+        <td style="padding-left: 8.5%;"> přípitek, dort </td>
     </tr>
     <tr>
-        <td> 16.30 </td>
-        <td style="padding-left: 7%;"> oslava, jak kdo vydrží </td>
+        <td style="vertical-align:top;"> 16.30 </td>
+        <td style="padding-left: 8.5%;"> oslava, jak kdo vydrží </td>
     </tr>
     <tr>
         <td> <br> </td>
@@ -56,8 +56,7 @@ heading:
     <td style="padding-bottom: 7px;"> </td>
     </tr>
     <tr>
-        <td></td>
-        <td style="padding-left: 7%;"> regenerace, výlety a cyklovýlety každý podle svého </td>
+        <td style="text-align: center;" colspan="2"> regenerace, výlety a cyklovýlety každý podle svého </td>
     </tr>
 </table>
 <hr>
