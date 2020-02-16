@@ -6,9 +6,9 @@ subheading:
 image: "assets/P1260927.jpg"
 ---
 
-Je to daleko, přijeďte den předem a po oslavě si odpočiňte v krásném kraji Rychlebských hor. Přespěte! Kde? To je na vás a dejte nám vaši volbu vědět předem skrze <a href="https://forms.gle/LJowHAbscLS1V8u87" target="_blank"><b>formulář</b></a> a vepište se na konkrétní místa i zde do <a href="https://docs.google.com/spreadsheets/d/1TUzGYGomJNbcyxj5a_dXBCa5d9AY82O0JitANNWhGxQ/edit?usp=sharing)" target="_blank"><b>tabulky</b></a>.
+Je to daleko, přijeďte den předem a po oslavě si odpočiňte v krásném kraji Rychlebských hor. Kde přespíte?! To je na vás a dejte nám vaši volbu vědět předem skrze <a href="https://forms.gle/LJowHAbscLS1V8u87" target="_blank"><b>formulář</b></a> a vepište se na konkrétní místa i zde do <a href="https://docs.google.com/spreadsheets/d/1TUzGYGomJNbcyxj5a_dXBCa5d9AY82O0JitANNWhGxQ/edit?usp=sharing)" target="_blank"><b>tabulky</b></a>.
 
-Svatba bude veliká, poplacení bydlení je v režii svatebčanů.
+Svatba bude veliká, ubytování si svatebčené hradí sami.
 
 <br>
 <br>

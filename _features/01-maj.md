@@ -19,7 +19,7 @@ heading:
     </tr>
     <tr>
         <td style="vertical-align:top;"> 21.00 </td>
-        <td style="padding-left: 8.5%;"> čarodejnice, hry, sdílení, přípravy, ... </td>
+        <td style="padding-left: 8.5%;"> čarodejnice, hry, povídání, přípravy, ... </td>
     </tr>
     <tr>
         <td> <br> </td>
@@ -40,11 +40,11 @@ heading:
     </tr>
     <tr>
         <td style="vertical-align:top;"> 16.00 </td>
-        <td style="padding-left: 8.5%;"> přípitek, dort </td>
+        <td style="padding-left: 8.5%;"> přípitek, fotky, volná zábava </td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"> 16.30 </td>
-        <td style="padding-left: 8.5%;"> oslava, jak kdo vydrží </td>
+        <td style="vertical-align:top;"> 18:00 </td>
+        <td style="padding-left: 8.5%;"> hudba, tanec, oslava </td>
     </tr>
     <tr>
         <td> <br> </td>
@@ -60,4 +60,4 @@ heading:
     </tr>
 </table>
 <hr>
-**Dress code** - pohodlně a úměrně slavnosti, klidně v převleku, kreativitě se meze nekladou, můžete využít společného zájmu novomanželů o swingovou éru a oprášit něco po prarodičích.
+**Dress code** - pohodlně a úměrně slavnosti. Můžete využít společného zájmu novomanželů o swingovou éru nebo se inspirovat duchem **<a href="http://georgshalle.cz/" target="_blank">Tančírny</a>**.
