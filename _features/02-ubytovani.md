@@ -26,7 +26,7 @@ Svatba bude veliká, ubytování si svatebčené hradí sami.
         <td style="padding-left: 5%;padding-bottom: 5px; vertical-align:top;"> moderní chatky (vlastní kuchyně, soc.zařízení), 10 minut autem od Tančírny </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-bottom:5px; vertical-align:top;"> <a href="http://www.ekocentrumrychleby.cz/ubytovani/kemp-cervenka/" target="_blank"> Tabita </a> </td>
+        <td style="font-weight: bold; padding-bottom:5px; vertical-align:top;"> <a href="http://www.ekocentrumrychleby.cz/ubytovani/penzion-tabita/" target="_blank"> Tabita </a> </td>
         <td style="padding-left: 5%;padding-bottom: 5px; vertical-align:top;"> pokoje s postelemi či na karimatkách, přímo naproti Tančírně (pozn. hlučné) </td>
     </tr>
     <tr>
