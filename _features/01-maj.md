@@ -43,7 +43,7 @@ heading:
         <td style="padding-left: 8.5%;"> přípitek, fotky, volná zábava </td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"> 18:00 </td>
+        <td style="vertical-align:top;"> 18.00 </td>
         <td style="padding-left: 8.5%;"> hudba, tanec, oslava </td>
     </tr>
     <tr>
