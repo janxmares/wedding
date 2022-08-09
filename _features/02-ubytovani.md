@@ -18,14 +18,6 @@ Svatba bude veliká, ubytování si svatebčené hradí sami.
 
 <table style="margin-left:auto; margin-right:auto; width: 100%;">
     <tr>
-        <td style="font-weight: bold; padding-bottom:5px; vertical-align:top;"> <a href="http://www.ekocentrumrychleby.cz/ubytovani/ekocentrum-rychleby/" target="_blank">Ekocentrum Rychleby</a></td>
-        <td style="padding-left: 5%; padding-bottom: 5px; vertical-align:top;"> komfortní bydlení v pokojích, 10 minut autem od Tančírny </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-bottom:5px; vertical-align:top;"> <a href="http://www.ekocentrumrychleby.cz/ubytovani/kemp-cervenka/" target="_blank">Chatky Červenka</a> </td>
-        <td style="padding-left: 5%;padding-bottom: 5px; vertical-align:top;"> moderní chatky (vlastní kuchyně, soc.zařízení), 10 minut autem od Tančírny </td>
-    </tr>
-    <tr>
         <td style="font-weight: bold; padding-bottom:5px; vertical-align:top;"> <a href="http://www.ekocentrumrychleby.cz/ubytovani/penzion-tabita/" target="_blank"> Tabita </a> </td>
         <td style="padding-left: 5%;padding-bottom: 5px; vertical-align:top;"> pokoje s postelemi či na karimatkách, přímo naproti Tančírně (pozn. hlučné) </td>
     </tr>
@@ -40,6 +32,14 @@ Svatba bude veliká, ubytování si svatebčené hradí sami.
     <tr>
         <td style="font-weight: bold; padding-bottom:5px; vertical-align:top;"> <a href="(https://s.raciudoli.cz/ubytovani-v-rychlebskych-horach/cenik-ubytovani-2019/" target="_blank"> Stany u Isoldy </a></td>
         <td style="padding-left: 5%;padding-bottom: 5px; vertical-align:top;"> punk, zmrzlina </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-bottom:5px; vertical-align:top;"> <a href="http://www.ekocentrumrychleby.cz/ubytovani/ekocentrum-rychleby/" target="_blank">Ekocentrum Rychleby</a></td>
+        <td style="padding-left: 5%; padding-bottom: 5px; vertical-align:top;"> komfortní bydlení v pokojích, 10 minut autem od Tančírny, zabookujte sami přes rezervační formulář Ekocentra. </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-bottom:5px; vertical-align:top;"> <a href="http://www.ekocentrumrychleby.cz/ubytovani/kemp-cervenka/" target="_blank">Chatky Červenka</a> </td>
+        <td style="padding-left: 5%;padding-bottom: 5px; vertical-align:top;"> moderní chatky (vlastní kuchyně, soc.zařízení), 10 minut autem od Tančírny, zabookujte sami přes rezervační formulář Ekocentra. </td>
     </tr>
 </table>
 
