@@ -14,11 +14,11 @@ heading:
         <td style="padding-bottom: 7px;"></td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"> 18.00 </td>
+        <td style="vertical-align:top;"> 18.30 </td>
         <td style="padding-left: 8.5%;"> workshop swingu pro svatebčany v Tančírně </td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"> 19.30 </td>
+        <td style="vertical-align:top;"> 20.00 </td>
         <td style="padding-left: 8.5%;"> táborák, hry, povídání, přípravy, ... </td>
     </tr>
     <tr>
@@ -39,8 +39,8 @@ heading:
         <td style="padding-left: 8.5%;"> průvod do Tančírny </td>
     </tr>
     <tr>
-        <td style="vertical-align:top;"> 14.00 </td>
-        <td style="padding-left: 8.5%;"> přípitek, fotky, volná zábava </td>
+        <td style="vertical-align:top;"> 13.00 </td>
+        <td style="padding-left: 8.5%;"> přípitek, raut, volná zábava </td>
     </tr>
     <tr>
         <td style="vertical-align:top;"> 17.00 </td>
